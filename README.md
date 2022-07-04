@@ -1,1 +1,1 @@
-# Django-Quiz-App
+# Django_Quiz_App
